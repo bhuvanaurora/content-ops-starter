@@ -56,10 +56,11 @@ sections:
       - type: FeaturedItem
         title: Instant insights
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our AI-driven platform cuts out the middleman—no more waiting weeks
+          for data teams or business analysts to provide reports. Just ask your
+          question, and receive real-time insights pulled directly from your
+          databases.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
