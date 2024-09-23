@@ -441,11 +441,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      Whether you’re a startup, mid-size business, or large enterprise, we’ve
-      designed our pricing to scale with your needs. Choose the plan that fits
-      your business, or contact us for a custom quote tailored to your specific
-      data needs
+    subtitle: Flexible Pricing Plans for Businesses of All Sizes
     plans:
       - type: PricingPlan
         title: Developers
