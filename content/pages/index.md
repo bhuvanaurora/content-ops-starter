@@ -208,7 +208,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: 3. What kind of data sources does the platform integrate with?
+        title: What kind of data sources does the platform integrate with?
         subtitle: ''
         text: >
           We integrate with a wide range of data sources, including BigQuery,
