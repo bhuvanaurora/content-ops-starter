@@ -478,9 +478,8 @@ sections:
         title: Growth
         price: $499
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          For growing businesses needing advanced insights and scalability.
         features:
           - Feature one
           - Feature two
