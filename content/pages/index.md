@@ -591,8 +591,12 @@ sections:
       - title: Boost E-commerce revenue
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          No need to rely on weekly reports from data team to understand product
+          performance. Now, with this AI-powered platform, ask questions like
+          ‘What products are driving sales in Region X?’ and get answers
+          instantly to identify high-demand items faster, optimize inventory,
+          and increase revenue.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
