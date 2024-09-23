@@ -280,7 +280,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: What industries is this platform suitable for?
-        subtitle: Sales
+        subtitle: ''
         text: >
           Our platform is versatile and designed for use across a wide range of
           industries, including finance, retail, healthcare, manufacturing, and
