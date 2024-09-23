@@ -483,7 +483,7 @@ sections:
         features:
           - 10 user accounts
           - Up to 5 data sources
-          - Feature three
+          - '20,000 queries per month'
           - Feature four
         image:
           type: ImageBlock
