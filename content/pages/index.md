@@ -444,7 +444,7 @@ sections:
     subtitle: Flexible Pricing Plans for Businesses of All Sizes
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Startup
         price: $199
         details: per month
         description: |+
