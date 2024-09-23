@@ -462,7 +462,7 @@ sections:
         actions:
           - type: Button
             label: Try for free
-            url: /
+            url: '#contact'
             icon: arrowRight
             iconPosition: right
             style: secondary
