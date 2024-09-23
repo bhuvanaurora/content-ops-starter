@@ -645,7 +645,7 @@ sections:
       - title: >-
           Increase Financial Services Firm Client Satisfaction with Real-Time
           Insights
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Clients demand quick responses to market changes. Thanks to this
