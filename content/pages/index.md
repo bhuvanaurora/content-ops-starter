@@ -329,6 +329,110 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Use cases
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - title: Boost E-commerce revenue
+        tagline: ''
+        subtitle: ''
+        text: >
+          No need to rely on weekly reports from data team to understand product
+          performance. Now, with this AI-powered platform, ask questions like
+          ‘What products are driving sales in Region X?’ and get answers
+          instantly to identify high-demand items faster, optimize inventory,
+          and increase revenue.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Cut Healthcare decision making time
+        tagline: ''
+        subtitle: ''
+        text: >
+          Handling large volumes of patient data, and extracting insights used
+          to be a time-consuming process. With the AI search tool, you can now
+          ask detailed questions about patient trends and outcomes and get
+          accurate responses in seconds. Cut decision-making time, allowing you
+          to deliver better care and make more informed operational decisions.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: >-
+          Increase Financial Services Firm Client Satisfaction with Real-Time
+          Insights
+        tagline: ''
+        subtitle: ''
+        text: >
+          Clients demand quick responses to market changes. Thanks to this
+          platform, you can now pull financial performance data and market
+          trends on the fly, providing instant insights to clients. This will
+          drastically improve your client satisfaction and retention.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -703,110 +807,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Use cases
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - title: Boost E-commerce revenue
-        tagline: ''
-        subtitle: ''
-        text: >
-          No need to rely on weekly reports from data team to understand product
-          performance. Now, with this AI-powered platform, ask questions like
-          ‘What products are driving sales in Region X?’ and get answers
-          instantly to identify high-demand items faster, optimize inventory,
-          and increase revenue.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Cut Healthcare decision making time
-        tagline: ''
-        subtitle: ''
-        text: >
-          Handling large volumes of patient data, and extracting insights used
-          to be a time-consuming process. With the AI search tool, you can now
-          ask detailed questions about patient trends and outcomes and get
-          accurate responses in seconds. Cut decision-making time, allowing you
-          to deliver better care and make more informed operational decisions.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: >-
-          Increase Financial Services Firm Client Satisfaction with Real-Time
-          Insights
-        tagline: ''
-        subtitle: ''
-        text: >
-          Clients demand quick responses to market changes. Thanks to this
-          platform, you can now pull financial performance data and market
-          trends on the fly, providing instant insights to clients. This will
-          drastically improve your client satisfaction and retention.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark
