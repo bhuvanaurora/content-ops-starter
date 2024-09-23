@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Instant insights
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Our AI-driven platform cuts out the middleman—no more waiting weeks
           for data teams or business analysts to provide reports. Just ask your
