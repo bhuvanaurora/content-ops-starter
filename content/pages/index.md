@@ -515,7 +515,7 @@ sections:
           - Unlimited user accounts
           - Unlimited data sources
           - Dedicated account manager
-          - Custom integration
+          - Custom integrations and onboarding
           - Feature five
         image:
           type: ImageBlock
