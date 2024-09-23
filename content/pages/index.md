@@ -176,7 +176,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: How does your AI search analytics platform work?
+        title: ''
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
