@@ -617,7 +617,7 @@ sections:
         type: FeaturedItem
       - title: Cut Healthcare decision making time
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Handling large volumes of patient data, and extracting insights used
           to be a time-consuming process. With the AI search tool, you can now
