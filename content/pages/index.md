@@ -590,7 +590,7 @@ sections:
     items:
       - title: Boost E-commerce revenue
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           No need to rely on weekly reports from data team to understand product
           performance. Now, with this AI-powered platform, ask questions like
