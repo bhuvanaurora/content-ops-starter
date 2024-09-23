@@ -550,7 +550,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Reach out for questions, feedback or feature requests.
+      Reach out for early access, questions, feedback or feature requests.
     media:
       fields:
         - name: name
