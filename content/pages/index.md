@@ -452,8 +452,8 @@ sections:
 
         features:
           - 5000 queries per month
-          - Email support
           - 1 user account
+          - Email support
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
