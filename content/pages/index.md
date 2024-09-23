@@ -322,7 +322,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Apply now
+        label: Get Started
         url: /
         icon: arrowRight
         iconPosition: right
