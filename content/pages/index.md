@@ -451,7 +451,7 @@ sections:
           For small teams or businesses just getting started with data insights.
 
         features:
-          - Feature one
+          - 5000 queries per month
           - Feature two
           - Feature three
           - Feature four
