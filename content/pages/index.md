@@ -642,7 +642,9 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: >-
+          Increase Financial Services Firm Client Satisfaction with Real-Time
+          Insights
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
