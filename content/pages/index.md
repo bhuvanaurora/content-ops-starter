@@ -29,7 +29,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Natural language
+      label: Natural language queries
       color: text-primary
       type: Badge
     elementId: ''
