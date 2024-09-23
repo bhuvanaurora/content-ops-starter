@@ -545,7 +545,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ''
+      text: Contact us
       color: text-dark
       type: TitleBlock
     subtitle: ''
