@@ -618,8 +618,12 @@ sections:
       - title: Cut Healthcare decision making time
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Handling large volumes of patient data, and extracting insights used
+          to be a time-consuming process. With the AI search tool, you can now
+          ask detailed questions about patient trends and outcomes and get
+          accurate responses in seconds. Cut decision-making time, allowing you
+          to deliver better care and make more informed operational decisions.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
