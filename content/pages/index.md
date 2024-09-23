@@ -281,10 +281,11 @@ sections:
       - type: FeaturedItem
         title: What industries is this platform suitable for?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our platform is versatile and designed for use across a wide range of
+          industries, including finance, retail, healthcare, manufacturing, and
+          more. If you have data and need fast, reliable insights, our platform
+          can help.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
