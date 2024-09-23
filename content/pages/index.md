@@ -84,10 +84,11 @@ sections:
               borderRadius: x-large
       - title: Unified data access
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our platform integrates seamlessly with multiple data sources,
+          including BigQuery, SQL databases, and data lakes. It automatically
+          aggregates results, delivering comprehensive answers from across your
+          data landscape.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
