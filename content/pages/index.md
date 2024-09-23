@@ -481,7 +481,7 @@ sections:
         description: |
           For growing businesses needing advanced insights and scalability.
         features:
-          - Feature one
+          - 10 user accounts
           - Feature two
           - Feature three
           - Feature four
