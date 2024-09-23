@@ -239,10 +239,11 @@ sections:
       - type: FeaturedItem
         title: How fast can I get results?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our AI delivers results in real time, typically within a few seconds
+          after submitting your query. Whether it’s a complex data set or a
+          quick check on last quarter’s sales, you’ll receive accurate insights
+          almost instantly.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
