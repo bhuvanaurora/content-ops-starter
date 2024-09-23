@@ -482,7 +482,7 @@ sections:
           For growing businesses needing advanced insights and scalability.
         features:
           - 10 user accounts
-          - Feature two
+          - Up to 5 data sources
           - Feature three
           - Feature four
         image:
