@@ -484,7 +484,7 @@ sections:
           - 10 user accounts
           - Up to 5 data sources
           - '20,000 queries per month'
-          - Feature four
+          - Priority customer support
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
