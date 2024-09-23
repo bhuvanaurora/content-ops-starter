@@ -476,7 +476,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Growth
-        price: $99
+        price: $499
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
