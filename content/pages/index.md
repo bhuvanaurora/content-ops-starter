@@ -7,7 +7,7 @@ sections:
       text: 'Make smarter decisions, faster. No more waiting on reports.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Think GPT for your business data
     text: >
       The future of business intelligence is here. Say goodbye to manual data
       requests and long wait times. With our AI platform, you'll receive
