@@ -593,7 +593,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: submit
     colors: bg-light-fg-dark
     type: GenericSection
     elementId: contact
