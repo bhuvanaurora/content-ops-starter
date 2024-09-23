@@ -452,7 +452,7 @@ sections:
 
         features:
           - 5000 queries per month
-          - Feature two
+          - Email support
           - Feature three
           - Feature four
         image:
