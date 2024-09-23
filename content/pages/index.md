@@ -259,7 +259,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: How does your pricing work?
-        subtitle: Sales
+        subtitle: ''
         text: >
           We offer flexible pricing models based on the size of your business
           and data needs. Whether you’re a small team or an enterprise, we can
