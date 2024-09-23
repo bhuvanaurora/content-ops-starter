@@ -110,10 +110,11 @@ sections:
         type: FeaturedItem
       - title: Natural language queries
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Forget complex SQL or code. Our system allows you to ask questions in
+          plain English, like “What were our top-performing products last
+          quarter?” or “How much revenue did we generate from region X?” and get
+          immediate, precise answers.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
