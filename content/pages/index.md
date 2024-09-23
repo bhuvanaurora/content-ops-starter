@@ -260,10 +260,11 @@ sections:
       - type: FeaturedItem
         title: How does your pricing work?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We offer flexible pricing models based on the size of your business
+          and data needs. Whether you’re a small team or an enterprise, we can
+          tailor a pricing plan that fits your requirements. Contact us for a
+          custom quote!
         actions: []
         colors: bg-neutral-fg-dark
         styles:
