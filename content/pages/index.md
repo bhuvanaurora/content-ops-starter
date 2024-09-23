@@ -453,6 +453,7 @@ sections:
         features:
           - 5000 queries per month
           - 1 user account
+          - ''
           - Email support
         image:
           type: ImageBlock
