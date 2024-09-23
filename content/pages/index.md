@@ -448,17 +448,7 @@ sections:
         price: $199
         details: per month
         description: |+
-
-
-          *   10 user accounts
-
-          *   Access to up to 3 data sources (BigQuery, SQL, CSVs, etc.)
-
-          *   5,000 queries per month
-
-          *   Customizable dashboards and reports
-
-          *   Email support
+          For small teams or businesses just getting started with data insights.
 
         features:
           - Feature one
