@@ -484,8 +484,8 @@ sections:
         features:
           - '20,000 queries per month'
           - 10 user accounts
-          - ''
           - Up to 5 data sources
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
