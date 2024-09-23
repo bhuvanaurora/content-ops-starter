@@ -177,7 +177,7 @@ sections:
     items:
       - type: FeaturedItem
         title: How does your AI search analytics platform work?
-        subtitle: Sales
+        subtitle: How does your AI search analytics platform work?
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
