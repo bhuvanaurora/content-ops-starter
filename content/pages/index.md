@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/Screenshot 2024-09-23 at 15.29.18.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
