@@ -301,7 +301,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: How do I get started?
-        subtitle: Sales
+        subtitle: ''
         text: >
           Getting started is easy! Sign up for a demo or contact our team to
           learn how we can integrate your data and help you start querying
