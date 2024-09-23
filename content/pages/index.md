@@ -313,7 +313,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /
+        url: '#contact'
         icon: arrowRight
         iconPosition: right
         style: primary
