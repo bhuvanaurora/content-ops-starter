@@ -513,7 +513,7 @@ sections:
           For large businesses and enterprises with complex data needs.
         features:
           - Unlimited user accounts
-          - Feature two
+          - Unlimited data sources
           - Feature three
           - Feature four
           - Feature five
