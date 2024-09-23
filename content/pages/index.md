@@ -200,10 +200,10 @@ sections:
       - type: FeaturedItem
         title: Do I need technical skills to use the platform?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          No technical skills are required! The platform is designed for anyone
+          to use, regardless of their data expertise. You can simply ask
+          questions in natural language, and the AI will handle the rest.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
