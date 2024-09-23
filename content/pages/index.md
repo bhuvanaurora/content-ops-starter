@@ -516,7 +516,7 @@ sections:
           - Unlimited data sources
           - Dedicated account manager
           - Custom integrations and onboarding
-          - Feature five
+          - Premium support
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
