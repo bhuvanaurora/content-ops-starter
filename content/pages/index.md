@@ -514,7 +514,7 @@ sections:
         features:
           - Unlimited user accounts
           - Unlimited data sources
-          - Feature three
+          - Dedicated account manager
           - Feature four
           - Feature five
         image:
