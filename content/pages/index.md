@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The future of business intelligence is here. Say goodbye to manual data
+      requests and long wait times. With our AI platform, you'll receive
+      insights in real-time, allowing you to make faster, data-driven decisions
+      and stay ahead of the competition.
     actions:
       - label: Get started
         altText: ''
