@@ -220,10 +220,11 @@ sections:
       - type: FeaturedItem
         title: 3. What kind of data sources does the platform integrate with?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We integrate with a wide range of data sources, including BigQuery,
+          SQL databases, cloud storage, and more. If you have a custom data
+          environment, we can help you set up the right connections to ensure
+          all your data is accessible.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
