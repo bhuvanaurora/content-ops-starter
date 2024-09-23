@@ -302,10 +302,11 @@ sections:
       - type: FeaturedItem
         title: How do I get started?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Getting started is easy! Sign up for a demo or contact our team to
+          learn how we can integrate your data and help you start querying
+          within minutes. No long onboarding process or setup headaches—just
+          instant insights.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
