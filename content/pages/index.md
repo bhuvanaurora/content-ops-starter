@@ -646,7 +646,7 @@ sections:
           Increase Financial Services Firm Client Satisfaction with Real-Time
           Insights
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Clients demand quick responses to market changes. Thanks to this
           platform, you can now pull financial performance data and market
