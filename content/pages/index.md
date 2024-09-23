@@ -178,10 +178,12 @@ sections:
       - type: FeaturedItem
         title: How does your AI search analytics platform work?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our platform allows you to input questions in plain English, just like
+          you would ask in a conversation. The AI translates your question into
+          a database query, searches your data sources, and returns accurate,
+          real-time results within seconds. It’s like having a data analyst that
+          never sleeps!
         actions: []
         colors: bg-neutral-fg-dark
         styles:
