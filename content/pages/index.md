@@ -482,8 +482,8 @@ sections:
         description: |
           For growing businesses needing advanced insights and scalability.
         features:
-          - 10 user accounts
           - '20,000 queries per month'
+          - 10 user accounts
           - Up to 5 data sources
           - Priority customer support
         image:
