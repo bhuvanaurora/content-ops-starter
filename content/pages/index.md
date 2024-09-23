@@ -483,8 +483,8 @@ sections:
           For growing businesses needing advanced insights and scalability.
         features:
           - 10 user accounts
-          - Up to 5 data sources
           - '20,000 queries per month'
+          - Up to 5 data sources
           - Priority customer support
         image:
           type: ImageBlock
