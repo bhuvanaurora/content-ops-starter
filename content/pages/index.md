@@ -648,8 +648,10 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Clients demand quick responses to market changes. Thanks to this
+          platform, you can now pull financial performance data and market
+          trends on the fly, providing instant insights to clients. This will
+          drastically improve your client satisfaction and retention.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
