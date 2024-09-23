@@ -512,7 +512,7 @@ sections:
         description: |
           For large businesses and enterprises with complex data needs.
         features:
-          - Feature one
+          - Unlimited user accounts
           - Feature two
           - Feature three
           - Feature four
