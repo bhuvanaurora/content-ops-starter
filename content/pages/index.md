@@ -616,7 +616,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Cut Healthcare decision making time
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Handling large volumes of patient data, and extracting insights used
