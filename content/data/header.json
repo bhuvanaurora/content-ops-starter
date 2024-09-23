@@ -16,7 +16,7 @@
         {
             "label": "Sign up for early access",
             "altText": "Sign up",
-            "url": "/contact",
+            "url": "#contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
