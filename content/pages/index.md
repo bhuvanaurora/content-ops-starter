@@ -447,9 +447,19 @@ sections:
         title: Developers
         price: $199
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+
+
+          *   10 user accounts
+
+          *   Access to up to 3 data sources (BigQuery, SQL, CSVs, etc.)
+
+          *   5,000 queries per month
+
+          *   Customizable dashboards and reports
+
+          *   Email support
+
         features:
           - Feature one
           - Feature two
