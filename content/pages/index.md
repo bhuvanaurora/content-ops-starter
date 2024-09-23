@@ -57,10 +57,9 @@ sections:
         title: Instant insights
         subtitle: ''
         text: >
-          Our AI-driven platform cuts out the middleman—no more waiting weeks
-          for data teams or business analysts to provide reports. Just ask your
-          question, and receive real-time insights pulled directly from your
-          databases.
+          Our AI-driven platform cuts out the middleman — no more waiting weeks
+          for data teams to provide reports. Just ask your question, and receive
+          real-time insights pulled directly from your databases.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
