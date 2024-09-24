@@ -1,8 +1,8 @@
 ---
 title: Blog
-slug: /blog
+slug: /blog_sidhadgfhkadfadbkjsdf
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Featured Post
