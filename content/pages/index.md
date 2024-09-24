@@ -444,37 +444,6 @@ sections:
     subtitle: Flexible Pricing Plans for Businesses of All Sizes
     plans:
       - type: PricingPlan
-        title: Growth
-        price: $499
-        details: per month
-        description: |
-          For growing businesses needing advanced insights and scalability.
-        features:
-          - '20,000 queries per month'
-          - 10 user accounts
-          - Up to 5 data sources
-          - Priority support
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: '#contact'
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Enterprise
         price: Custom
         details: per month
