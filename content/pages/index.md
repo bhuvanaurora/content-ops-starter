@@ -444,38 +444,6 @@ sections:
     subtitle: Flexible Pricing Plans for Businesses of All Sizes
     plans:
       - type: PricingPlan
-        title: Startup
-        price: $199
-        details: per month
-        description: |+
-          For small teams or businesses just getting started with data insights.
-
-        features:
-          - 5000 queries per month
-          - 1 data source
-          - 1 user account
-          - Email support
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: '#contact'
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Growth
         price: $499
         details: per month
