@@ -551,6 +551,8 @@ sections:
     subtitle: ''
     text: |
       Reach out for early access, questions, feedback or feature requests.
+
+      bhuvan.aurora\@gmail.com
     colors: bg-light-fg-dark
     type: GenericSection
     elementId: contact
