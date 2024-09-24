@@ -444,7 +444,7 @@ sections:
     subtitle: Flexible Pricing Plans for Businesses of All Sizes
     plans:
       - type: PricingPlan
-        title: Enterprise
+        title: ''
         price: Custom
         details: per month
         description: |
