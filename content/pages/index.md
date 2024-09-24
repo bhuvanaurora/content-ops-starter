@@ -446,7 +446,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Custom
-        details: per month
+        details: ''
         description: |
           For large businesses and enterprises with complex data needs.
         features:
