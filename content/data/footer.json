@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "altText": "SL",
         "type": "ImageBlock"
     },
     "text": "AI search analytics company\n",
