@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog
+slug: /blog_sidhadgfhkadfadbkjsdf
 numOfPostsPerPage: 12
 enableSearch: false
 topSections:
